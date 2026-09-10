@@ -2,7 +2,7 @@
 """
 Created on Thu Dec  4 10:22:58 2025
 
-@author: annej
+@author: .....
 """
 import os
 from bs4 import BeautifulSoup
